@@ -4,13 +4,6 @@ Database Exploration
 Purpose:
 -To understand the structure, quality, and basic behavior of the dataset before doing any deeper analysis.
 
-What it answers:
--What columns exist?
--Are there missing values?
--What is the date range?
--What do typical rental counts look like?
--What categories exist (seasons, holiday, etc.)?
-
 Why it's important:
 -It builds a foundation so you know what you're working with and whether the data is clean enough to analyze.
 
